@@ -22,9 +22,10 @@ In the new table, one additional conditional columns were added using M-formula:
 
 - loyalty = `SWITCH(TRUE(),'01 Churn-Dataset'[tenure]<=12,"< 1 year",'01 Churn-Dataset'[tenure]<=24,"< 2 years",'01 Churn-Dataset'[tenure]<=36,"< 3 years",'01 Churn-Dataset'[tenure]<=48,"< 4 years", '01 Churn-Dataset'[tenure]<=60,"< 5 years",'01 Churn-Dataset'[tenure]<=72,"< 6 years")`
 
-- Removed Unnecessary columns 
-- Removed Unnecessary rows
-- Each of the columns in the table were validated to have the correct data type
+- Replace value from "No phone Service" to "No","null" to "0" & more.
+- Changed the datatypes.
+- Added an conditional coloumn where the tenure is divided in a bins like tenure<=12 falls on 0-1 year bin,tenure<=24 falls on 1-2 years bin.
+- Each of the columns in the table were validated to have the correct data type.
 
 ## Data Modeling:
 
