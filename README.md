@@ -95,23 +95,16 @@ This project framework is scalable and can be directly applied to the following 
 
 Use Case: Predicting subscriber cancellations for mobile, internet, and cable services.
 
-Key Metric: Average Revenue Per User (ARPU) vs. Customer Lifetime Value (CLV).
-
 - **SaaS (Software as a Service):**
 
 Use Case: Companies like Netflix, Spotify, or Salesforce use this exact logic to track monthly recurring revenue (MRR) churn.
-
-Transferable Skill: The "Contract Type" analysis in this project mirrors SaaS "Annual vs. Monthly" subscription models.
 
 - **BFSI (Banking, Financial Services, & Insurance):**
 
 Use Case: Predicting credit card attrition or insurance policy lapses.
 
-Transferable Skill: The "Tech Support" variable in this dataset is analogous to "Customer Service Complaints" in banking.
-
 - **E-Commerce (Subscription Models):**
 
 Use Case: Retention for subscription boxes (e.g., HelloFresh) or loyalty memberships (e.g., Amazon Prime).
 
-Key Insight: Analyzing "Tenure Bins" helps identify the "drop-off cliff" where most subscribers cancel.
 
