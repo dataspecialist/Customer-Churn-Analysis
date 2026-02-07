@@ -84,8 +84,8 @@ Based on the data, the following strategic actions are recommended:
 | **Observation** | **Recommended Action** | **Owner** | **Expected Impact** |
 | :--- | :--- | :--- | :--- |
 High Churn in Month-to-Month Contracts (42%)|Launch a "Loyalty Upgrade" campaign offering a 10% discount for switching to a 1-year contract.|	Marketing Team	|Reduce short-term churn by ~15% by locking in tenure.
-Fiber Optic Churn is 2x DSL Churn	|Audit Fiber Optic reliability and price-to-value ratio. |Competitor benchmarking required.|	Product Manager	|Identify if the issue is Price or Quality.
-High Tech Tickets Precede Churn|	Implement an automated "Customer Success" alert: If a user logs >2 tickets in a month, a senior agent must call them.|	Customer Support Head|	Intervene before the customer decides to cancel.
+Fiber Optic Churn is 2x DSL Churn	Audit Fiber Optic reliability and price-to-value ratio. |Competitor benchmarking required.|	Product Manager	|Identify if the issue is Price or Quality.
+High Tech Tickets Precede Churn|Implement an automated "Customer Success" alert: If a user logs >2 tickets in a month, a senior agent must call them.|	Customer Support Head|	Intervene before the customer decides to cancel.
 Electronic Check Payers Churn Higher	|Incentivize "Auto-Pay" (Credit Card/Bank Transfer) setup to reduce friction in manual payments.	|Billing Dept	|Increase retention by removing the monthly "payment decision" point.
 
 ## 🎖️Bonus:-
