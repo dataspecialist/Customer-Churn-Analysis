@@ -67,6 +67,22 @@ Measures used in  all visualization are:
 
 - **Tech Support in %** =`DIVIDE(CALCULATE(COUNT('01 Churn-Dataset'[TechSupport]), '01 Churn-Dataset'[TechSupport] ="Yes", '01 Churn-Dataset'[Churn]="Yes"),CALCULATE(COUNT('01 Churn-Dataset'[TechSupport]),'01 Churn-Dataset'[Churn]="Yes"),0)`
 
+## Dashboard Screenshot:-
+Check out the dashboard here - 
+ **[Dashboard](https://github.com/dataspecialist/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Dashboard.pbix)** 
+ <br>
+ <p align="center">
+  <img src="Customer Churn Dashborad.png" width="600" />
+</p>
+<br>
+ <p align="center">
+  <img src="Customer Risk Dashboard.png" width="600" />
+</p>
+<br>
+ <p align="center">
+  <img src="Services.png" width="600" />
+</p>
+<br>
 ## 📊KPIs & Key Insights
 Based on the deep-dive analysis of the dataset:
 
